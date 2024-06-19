@@ -1,3 +1,14 @@
+ScreenShots :
+
+![BlogImage1](https://github.com/Tisha3107/Blog-Life_Chronicles/assets/100868235/1600af07-3cfd-4f40-9ded-6a9cf165e2c5)
+
+![BlogImage2](https://github.com/Tisha3107/Blog-Life_Chronicles/assets/100868235/6e1eb745-1fc5-4533-ab1c-631605640aab)
+
+![BlogImage3](https://github.com/Tisha3107/Blog-Life_Chronicles/assets/100868235/fa5d3cd9-2c38-4613-9458-ba8baf53e871)
+
+![BlogImage4](https://github.com/Tisha3107/Blog-Life_Chronicles/assets/100868235/88223e1f-0959-4421-aa5e-16acdfb35bdd)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
